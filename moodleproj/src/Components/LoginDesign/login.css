@@ -1,0 +1,60 @@
+.main
+{
+    background-image:-webkit-linear-gradient(rgb(161, 41, 190),blue);
+    background-size: cover;
+    height: 100vh;
+}
+
+.div1
+{
+    border-radius: 35px;
+}
+
+.img
+{
+    border-radius: 50%;
+}
+
+h1{
+    color:green;
+    font-style: italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.butt
+{
+    background-color:greenyellow;
+    height: 35px;
+    width: 88px;
+    text-align: center;
+    color:whitesmoke;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+}
+
+.text
+{
+    color: chartreuse;
+}
+
+.icon1
+{
+    border-radius: 30px;
+    height: 35px;
+    background-color:gainsboro;
+}
+
+.icon2
+{
+    border-radius: 30px;
+    height: 35px;
+    background-color:gainsboro;
+}
+
+.inp
+{
+    border: none;
+    outline: none;
+    background-color:gainsboro;
+}

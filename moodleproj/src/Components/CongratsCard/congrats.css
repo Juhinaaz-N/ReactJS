@@ -1,0 +1,41 @@
+.carddiv
+{
+  background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+  text-align: center;
+  height: 100vh;
+  background-size: cover;
+}
+
+h1
+{
+  color: white;
+  font-style: italic;
+}
+
+h2{
+    color: purple;
+  }
+ 
+  
+.imag1
+{
+  height: 30vh;
+  width: 15vw;
+  border-radius: 50%;
+}
+
+.imag2
+{
+  height: 30vh;
+  width: 15vw;
+  border-radius: 50%; 
+}
+
+.imag
+{
+  background-color:#61dafb!important;
+  width:35vw;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}

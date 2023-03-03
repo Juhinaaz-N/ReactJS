@@ -1,0 +1,26 @@
+.hookbg
+{
+    background-image: url("https://wallpaperaccess.com/full/2202073.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.hookheading
+{
+    color:chartreuse;
+    font-weight:bolder;
+}
+
+.hooknum{
+    color:black;
+    font-size: 120px;
+}
+
+.hookbutt{
+    background-color:whitesmoke;
+    color: green;
+    height: 70px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
